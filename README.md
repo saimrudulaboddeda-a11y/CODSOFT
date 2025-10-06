@@ -1,1 +1,1 @@
-it is a random number guessing game. we have to enter the number of rounds we want to play manually . each round has 5 attempts in that 5 attempts we have to guess the correct random number if we had guesses the correct random number in that 5 attempts it assigns +1 mark
+these are the code written by me 
